@@ -1,2 +1,8 @@
 # Finding-Donors-for-CharityML
-Investigated the factors affecting the possibility of a donation being made using real census data. Developed a naive classifier to compare testing results. Trained and tested multiple supervised ML models on census data to predict a donation possibility. The model was selected based on accuracy, F-score metrics, &amp; algorithm efficiency.
+
+Machine Learning Project for Udacity's Machine Learning Cross-Skilling
+
+
+#Project Brief
+
+This repo containsmy work for the Project of Udacity's Machine Learning Cross-Skilling Program. In this project I applied supervised ML techniques on census data to help Charity ML identify people with a very high possiablity to donate for Charity ML. I did multipule transformations and preprocessing techniques to manipulate the data into a workable format. Then I evaluated 3 supervised ML models of my choice on the data based on based on accuracy, F-score metrics, & algorithm efficiency. Then I tuned and optimized the selected model.
