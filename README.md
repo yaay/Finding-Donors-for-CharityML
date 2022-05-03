@@ -1,6 +1,6 @@
 # Finding-Donors-for-CharityML
 
-Machine Learning Project for Udacity's Machine Learning Cross-Skilling
+Machine Learning Project for Udacity's Machine Learning Cross-Skilling Program
 
 
 # Project Brief
